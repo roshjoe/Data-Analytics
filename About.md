@@ -7,6 +7,10 @@ I have included few projects that I am proud of .
 <kbd>![Data Analysis](https://tse4.mm.bing.net/th?id=OIP.Hhhcsrwe6mvnWqvOjelUqgHaEK&pid=Api&P=0&h=180)
 
 ## Table of Contents
-- [Netflix Dashboard](#)
-- [](#)
-- [](#)
+- Analysis and Visualization of Netflix dataset(#)
+- 
+
+  
+## Analysis and Visualization of Netflix dataset
+In this Project,I have taken a sample dataset from Kaggle.com and created a dashboard reporting the shows/movies aired by Netflix from the countries they originate alongside their rating and genre. 
+From the raw data I received, I had to clean and organize the dataset.
