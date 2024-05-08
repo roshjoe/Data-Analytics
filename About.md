@@ -7,7 +7,7 @@ I have included few projects that I am proud of .
 <kbd>![Data Analysis](https://tse4.mm.bing.net/th?id=OIP.Hhhcsrwe6mvnWqvOjelUqgHaEK&pid=Api&P=0&h=180)
 
 ## Table of Contents
-- Analysis and Visualization of Netflix dataset(#)
+- Analysis and Visualization of Netflix dataset(#analysis-and-visualization-of-netflix-dataset)
 - 
 
   
