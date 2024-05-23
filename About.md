@@ -7,8 +7,8 @@ I have included few projects that I am proud of .
 
 
 ## Table of Contents
-- [Analysis and Visualization of Netflix dataset](#analysis-and-visualization-of-netflix-dataset)
-- [Analysis and Visualization of Automobile Sales dataset](#analysis-and-visualization-of-automobile-sales-dataset)
+- [Netflix Shows & Movies](#analysis-and-visualization-of-netflix-dataset)
+- [Automobile Global Sales](#analysis-and-visualization-of-automobile-Global-sales-dataset)
 
   
 ## Analysis and Visualization of Netflix dataset
