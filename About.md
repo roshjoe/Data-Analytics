@@ -1,6 +1,7 @@
 # About Me
-Hi.🙋‍♀️ My name is Roshini and Welcome to my Portfolio 
-A dedicated Data Analyst with a passion for transforming raw data into actionable insights.
+Hi.🙋‍♀️ My name is Roshini
+Welcome to my Portfolio.
+I am a dedicated Data Analyst with a passion for transforming raw data into actionable insights.
 With expertise in MySQL, Excel, PowerBI, and Tableau, I specialize in extracting meaningful patterns and trends from complex datasets.
 I have included few projects that I am proud of . 
 
